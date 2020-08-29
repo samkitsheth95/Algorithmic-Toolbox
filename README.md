@@ -27,6 +27,11 @@ The course covers basic algorithmic techniques and ideas for computational probl
 ###### [6) Maximum Number of Prizes](https://github.com/samkitsheth95/Algorithmic-Toolbox/blob/master/week3_greedy_algorithms/6_maximum_number_of_prizes/DifferentSummands.java)
 ###### [7) Maximum Salary](https://github.com/samkitsheth95/Algorithmic-Toolbox/blob/master/week3_greedy_algorithms/7_maximum_salary/LargestNumber.java)
 
+### [Week 4 : Divide and Conquer](https://github.com/samkitsheth95/Algorithmic-Toolbox/blob/master/week4_divide_and_conquer/week4_divide_and_conquer.pdf)
+###### [1) Binary Search](https://github.com/samkitsheth95/Algorithmic-Toolbox/blob/master/week4_divide_and_conquer/1_binary_search/BinarySearch.java)
+###### [2) Majority Element](https://github.com/samkitsheth95/Algorithmic-Toolbox/blob/master/week4_divide_and_conquer/2_majority_element/MajorityElement.java)
+###### [3) Improving Quick Sort](https://github.com/samkitsheth95/Algorithmic-Toolbox/blob/master/week4_divide_and_conquer/3_improving_quicksort/Sorting.java)
+###### [4) Number of Inversions](https://github.com/samkitsheth95/Algorithmic-Toolbox/blob/master/week4_divide_and_conquer/4_number_of_inversions/Inversions.java)
 
 ### [Week 5 : Dynamic Programming 1](https://github.com/samkitsheth95/Algorithmic-Toolbox/blob/master/week5_dynamic_programming1/week5_dynamic_programming1.pdf)
 ###### [1) Money Change Again](https://github.com/samkitsheth95/Algorithmic-Toolbox/blob/master/week5_dynamic_programming1/1_money_change_again/ChangeDP.java)
